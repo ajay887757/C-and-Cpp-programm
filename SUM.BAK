@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+int x,y,z,p;
+printf("Enter three no");
+scanf("%d%d%d",&x,&y,&z);
+p=x+y+z;
+printf("sum=%d",p);
+
+}
